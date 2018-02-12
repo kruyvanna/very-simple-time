@@ -1,11 +1,12 @@
 {
-  "name": "simple-time",
-  "version": "1.0.0",
-  "description": "Utility to parse and companre time",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "kruyvanna",
-  "license": "ISC"
+	"name": "very-simple-time",
+	"version": "1.0.0",
+	"description":
+		"Utility to parse and compare time. only support Hour and Minute",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "kruyvanna",
+	"license": "ISC"
 }
